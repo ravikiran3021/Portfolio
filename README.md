@@ -135,7 +135,6 @@ That's it — it opens directly in your browser! ✅
 ## 📄 License
 
 This portfolio is open source and free to use as inspiration.
-Please do not copy it directly — make it your own! 🙌
 
 ---
 
