@@ -16,7 +16,7 @@ This is my personal developer portfolio website built with pure **HTML, CSS, and
 
 ## 🚀 Live Demo
 
-🔗 **[https://ravikiran3021.github.io](https://ravikiran3021.github.io)**
+🔗 **[https://ravikiran3021.github.io](https://ravikiran3021.github.io/Portfolio/)**
 
 ---
 
